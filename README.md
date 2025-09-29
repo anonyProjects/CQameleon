@@ -1,4 +1,4 @@
-# Adaptive Backdoor Attack on Code Search Models
+# CQameleon: Effective and Stealthy Backdoor Attack on Code Search Models
 This is the homepage of **CQameleon** including `tool implementation` and `experiment results`.
 
 #### Running
